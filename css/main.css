@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+*******************************
+computer/tablet/mobile
+*******************************
+******************************/
+
+/******************************
+
+computer/tablet/mobile header
+******************************/
+
+/******************************
+
+computer/tablet/mobile body
+******************************/
+
+/******************************
+computer/tablet/mobile footer
+******************************/
+.ui.divider.footer {
+	margin-bottom: -14px;
+}
+.column.footer {
+  padding: 0px !important;
+}
+/******************************
+*******************************
+computer tablet only
+*******************************
+******************************/
+
+/******************************
+computer tablet header
+******************************/
+
+/******************************
+computer tablet body
+******************************/
+/*general*/
+.five.wide.right.aligned.column.computer.title {
+	padding-top: 32vh !important;
+}
+/*home*/
+.ui.borderless.fluid.right.floated.vertical.menu {
+	border: 0px;
+	box-shadow: none;
+}
+/******************************
+computer tablet footer
+******************************/
+
+/******************************
+*******************************
+mobile only
+*******************************
+******************************/
+
+/******************************
+mobile header
+******************************/
+/*navigation*/
+.ui.borderless.menu.mobile {
+	margin-top: -14px !important;
+	border: 0px;
+	box-shadow: none;
+}
+.ui.fluid.dropdown.link.item {
+	justify-content: center !important;
+}
+.ui.top.fixed.stackable.menu {
+	padding-top: 20px;
+	border: 0px;
+	box-shadow: none;
+}
+.ui.center.aligned.one.column.stackable.grid.mobile {
+	margin-top: 80px;
+}
+/******************************
+mobile body
+******************************/
+
+/******************************
+mobile footer
+******************************/
+
+/******************************
+*******************************
+computer/tablet/mobile
+*******************************
+******************************/
+
+/******************************
+
+computer/tablet/mobile header
+******************************/
+
+/******************************
+
+computer/tablet/mobile body
+******************************/
+
+/******************************
+computer/tablet/mobile footer
+******************************/
+.ui.divider.footer {
+	margin-bottom: -14px;
+}
+.column.footer {
+  padding: 0px !important;
+}

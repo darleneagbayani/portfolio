@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+*******************************
+computer/tablet/mobile
+*******************************
+******************************/
+/******************************
+computer/tablet/mobile header
+******************************/
+
+/******************************
+computer/tablet/mobile body
+******************************/
+.ui.medium.right.floated.image.bigger, .ui.centered.medium.image.bigger {
+	height:58px;
+	width: auto;
+}
+.ui.medium.right.floated.image.middle, .ui.centered.medium.image.middle {
+	height:45px;
+	width: auto;
+}
+.centered.center.aligned.content {
+	color: #fff;
+}
+.link, .link:active, .link:hover, .link:visited {
+	color: #000;
+}
+.targetDiv, .targetDivMobile {
+	display: none;
+}
+.ui.fluid.title, .ui.fluid.row  {
+	line-height: 30pt;
+}
+.right.floated.right.aligned.row, .visibile.transition {
+	padding-top: 0px;
+	margin-top: -14px;
+}
+a, #showall, #showallmobile{
+   display:inline-block;
+}
+.button, .button.launch {
+	letter-spacing: 0.5px;
+	outline: 0;
+	cursor: pointer;
+	font-size: 10pt;
+	padding: 0px;
+	background-color: #fff;
+	line-height: 30pt;
+	border: 0px;
+	box-shadow: none;
+}
+.content {
+	margin-top: -25px;
+}
+.ui.divider.remove.space {
+	margin-bottom: -14px !important;
+}
+.ui.modal {
+	border-radius: 0px !important;
+}
+.ui.tabular.menu.top {
+	background-color: #fff;
+	margin-bottom: 5vh;
+}
+.scrolling.content {
+	overflow-x: hidden !important;
+}
+.dimmerfont, .dimmerfont:hover {
+	color: #fff;
+}
+.websitefont {
+	line-height: 16pt;
+}
+/******************************
+computer/tablet/mobile footer
+******************************/
+.ui.divider.footer {
+	margin-bottom: -14px;
+}
+.column.footer {
+  padding: 0px !important;
+}
+/******************************
+*******************************
+computer tablet only
+*******************************
+******************************/
+
+/******************************
+computer tablet header
+******************************/
+
+/******************************
+computer tablet body
+******************************/
+/*general*/
+.five.wide.right.aligned.column.computer.title {
+	padding-top: 32vh !important;
+}
+/*home*/
+.ui.borderless.fluid.right.floated.vertical.menu {
+	border: 0px;
+	box-shadow: none;
+}
+.column.home {
+	padding: 0px !important;
+}
+/******************************
+computer tablet footer
+******************************/
+
+/******************************
+*******************************
+mobile only
+*******************************
+******************************/
+
+/******************************
+mobile header
+******************************/
+/*navigation*/
+.ui.borderless.menu.mobile {
+	margin-top: -14px !important;
+	border: 0px;
+	box-shadow: none;
+}
+.ui.fluid.dropdown.link.item {
+	justify-content: center !important;
+}
+.ui.top.fixed.stackable.menu {
+	padding-top: 20px;
+	border: 0px;
+	box-shadow: none;
+}
+.ui.center.aligned.one.column.stackable.grid.mobile {
+	margin-top: 80px;
+}
+/******************************
+mobile body
+******************************/
+
+/******************************
+mobile footer
+******************************/
